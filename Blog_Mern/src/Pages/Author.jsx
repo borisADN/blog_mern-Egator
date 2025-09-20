@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom'
 
 const authorsData = [
   { id: 1, name: 'Donald Trump', image: Avatar1 ,posts: 10 },
-  { id: 2, name: 'Nathalie', image: Avatar2, posts: 5 },
+  { id: 2, name: 'Parfaite', image: Avatar2, posts: 5 },
   { id: 3, name: 'Avatar 3', image: Avatar3, posts: 2 },
   { id: 4, name: 'Avatar 4', image: Avatar4, posts: 2 },
   { id: 5, name: 'Avatar 5', image: Avatar5 ,posts: 2 },

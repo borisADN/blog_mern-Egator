@@ -1,0 +1,32 @@
+# --- Logs ---
+/Blog_Mern/logs
+/Blog_Mern/*.log
+/Blog_Mern/npm-debug.log*
+/Blog_Mern/yarn-debug.log*
+/Blog_Mern/yarn-error.log*
+/Blog_Mern/pnpm-debug.log*
+/Blog_Mern/lerna-debug.log*
+
+# --- Dépendances ---
+/Blog_Mern/node_modules
+/server/node_modules
+
+# --- Build ---
+/Blog_Mern/dist
+/Blog_Mern/dist-ssr
+/Blog_Mern/*.local
+
+# --- Dossiers & fichiers éditeurs ---
+/Blog_Mern/.vscode/*
+!/Blog_Mern/.vscode/extensions.json
+/Blog_Mern/.idea
+/Blog_Mern/.DS_Store
+/Blog_Mern/*.suo
+/Blog_Mern/*.ntvs*
+/Blog_Mern/*.njsproj
+/Blog_Mern/*.sln
+/Blog_Mern/*.sw?
+
+# --- Dossiers temporaires (Next.js / TurboRepo etc.) ---
+/Blog_Mern/.next
+/Blog_Mern/.turbo
